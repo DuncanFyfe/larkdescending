@@ -1,5 +1,7 @@
-# Private folder for local notes
+# Private folder for local notes and scratchspace
 private/
+scratch/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
